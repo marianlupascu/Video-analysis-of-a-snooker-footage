@@ -1,0 +1,9 @@
+2
+1 white
+1 black
+0 pink
+0 blue
+0 green
+0 brown
+0 yellow
+0 red

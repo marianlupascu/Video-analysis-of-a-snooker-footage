@@ -1,0 +1,9 @@
+11
+1 white
+0 black
+1 pink
+1 blue
+1 green
+1 brown
+1 yellow
+5 red
