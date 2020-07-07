@@ -1,9 +1,0 @@
-4
-1 white
-0 red
-1 blue
-1 pink
-0 dark_green
-0 brown
-0 yellow
-1 black
